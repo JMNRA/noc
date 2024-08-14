@@ -4,3 +4,8 @@ dist/
 
 logs/
 .env
+
+
+mongo/
+.idea/
+postgres/
