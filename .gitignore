@@ -9,3 +9,5 @@ logs/
 mongo/
 .idea/
 postgres/
+postgres-test/
+mongo-test/
